@@ -46,9 +46,9 @@ def minimum_arena(current_points, tickets, next_rank):
 
 if __name__ == "__main__":
     # Inputs
-    current_points = 1112
-    next_rank = 1300
-    tix = 26
+    current_points = 1501
+    next_rank = 2000
+    tix = 80
     luck_arena(current_points, tix, next_rank)
     print()
     print()
